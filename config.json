@@ -4,10 +4,9 @@
   "inception": "2026-02-20T00:00:00Z",
   "currency": "USD",
   "initialCapital": 1000000.0,
-  "benchmarks": ["SPY", "GLD"],
-  "paper": true,
-  "cashInterestPolicy": {
-    "enabled": true,
-    "source": "inferred_from_broker_cash_balance"
-  }
+  "benchmarks": [
+    "SPY",
+    "GLD"
+  ],
+  "paper": true
 }
