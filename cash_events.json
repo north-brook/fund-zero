@@ -26,5 +26,12 @@
     "amount": 78300.0,
     "timestamp": "2026-02-23T14:49:23.470981+00:00",
     "source": "inferred_from_broker_cash_balance"
+  },
+  {
+    "id": "interest-20260223T163104652799Z",
+    "type": "interest",
+    "amount": -129758.0,
+    "timestamp": "2026-02-23T16:31:04.652799+00:00",
+    "source": "inferred_from_broker_cash_balance"
   }
 ]
