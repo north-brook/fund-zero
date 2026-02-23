@@ -1,0 +1,12 @@
+{
+  "name": "Fund Zero",
+  "slug": "fund-zero",
+  "inception": "2026-02-20T00:00:00Z",
+  "currency": "USD",
+  "initialCapital": 100000.0,
+  "benchmarks": [],
+  "cashInterestPolicy": {
+    "enabled": true,
+    "source": "inferred_from_broker_cash_balance"
+  }
+}
