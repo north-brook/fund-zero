@@ -78,5 +78,15 @@
     "commission": 0.0,
     "timestamp": "2026-02-24T15:02:22.219150+00:00",
     "decisionId": null
+  },
+  {
+    "id": "00025b44.699def3a.01.01",
+    "symbol": "GLD",
+    "side": "buy",
+    "qty": 40.0,
+    "price": 470.5,
+    "commission": 0.0,
+    "timestamp": "2026-02-24T15:02:26.285807+00:00",
+    "decisionId": null
   }
 ]
